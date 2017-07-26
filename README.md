@@ -22,7 +22,7 @@ in experiments."
 
 
 ## Usage
-The code has been witten in Tensorflow. Following is the list of prerequisites
+The code has been written in Tensorflow. Following is the list of prerequisites
 
 ### Prerequisites
 
@@ -34,7 +34,7 @@ The code has been witten in Tensorflow. Following is the list of prerequisites
 
 -pillow Usage
 ### Data-Set
-Change directory to the LS-GAN-GP directory
+Change the directory to LS-GAN-GP directory.
 You can download the CelebA data-set using command:  
 ```
 $ python download.py celebA
